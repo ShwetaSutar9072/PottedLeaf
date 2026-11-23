@@ -1,0 +1,30 @@
+
+# React
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+
+# Duplicate frontend backup
+Frontend/potted-leaf-react/
+
+# Spring Boot
+Backend/target/
+
+# Runtime uploaded images
+Backend/uploads/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs and OS
+*.log
+.DS_Store
+Thumbs.db
+
